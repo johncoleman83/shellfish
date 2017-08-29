@@ -102,3 +102,7 @@ Julien Barbier: julien@holbertonschool.com
 Bobby Yang: 122@holbertonschool.com  
 David John Coleman II: lcsw@davidjohncoleman.com  
 Elaine Yeung elaine.yeung@holbertonschool.com
+
+### License
+
+MIT License
